@@ -1,9 +1,9 @@
 # inventory_management_system
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Krishna-sree/Inventory_Management_System)
-![GitHub contributors](https://img.shields.io/github/contributors/Krishna-sree/Inventory_Management_System)
-![GitHub language count](https://img.shields.io/github/languages/count/Krishna-sree/Inventory_Management_System)
-![License](https://img.shields.io/github/license/Krishna-sree/Inventory_Management_System)
+![GitHub repo size](https://img.shields.io/github/repo-size/KrishnaSreeM/Inventory_Management_System)
+![GitHub contributors](https://img.shields.io/github/contributors/KrishnaSreeM/Inventory_Management_System)
+![GitHub language count](https://img.shields.io/github/languages/count/KrishnaSreeM/Inventory_Management_System)
+![License](https://img.shields.io/github/license/KrishnaSreeM/Inventory_Management_System)
 
 A _web-based Inventory Management System_ built with _Python Flask, **SQLAlchemy, and **Bootstrap_.  
 This application allows businesses to efficiently track products across multiple locations, manage stock movements, and maintain a real-time inventory balance.
@@ -49,7 +49,7 @@ This application allows businesses to efficiently track products across multiple
 1. _Clone the repository:_
 
 bash
-git clone https://github.com/Krishna-sree/Inventory_Management_System.git
+git clone https://github.com/KrishnaSreeM/Inventory_Management_System.git
 cd Inventory_Management_System
 
 2. ## Create a virtual environment and activate it:
@@ -115,3 +115,4 @@ Contributions are welcome!
 - Commit your changes (git commit -m 'Add feature')
 - Push to the branch (git push origin feature-name)
 - Create a Pull Request
+
